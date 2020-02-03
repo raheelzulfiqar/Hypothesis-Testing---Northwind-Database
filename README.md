@@ -15,6 +15,6 @@ If so, at what level(s) of discount?
 
 ## Project Goal
 
-The goal of this project is to gather information from a real-world database and our knowledge of statistical analysis and
+The goal of this project is to gather information from a real-world database and use  knowledge of statistical analysis and
 hypothesis testing to generate analytical insights that can be of value to the company.
 
